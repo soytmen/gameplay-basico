@@ -361,6 +361,7 @@
 "Assets/Scripsts/DestroyOutOfBounds.cs"
 "Assets/Scripsts/MoveForward.cs"
 "Assets/Scripsts/playercontroler.cs"
+"Assets/Scripsts/SpawnManager.cs"
 -langversion:9.0
 
 /deterministic
